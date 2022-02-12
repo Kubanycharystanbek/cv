@@ -1,1 +1,1 @@
-# kubanycharystanbek.github.io
+https://kubanycharystanbek.github.io
