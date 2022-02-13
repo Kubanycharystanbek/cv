@@ -1,1 +1,1 @@
-# Deployed Link: http://kubanycharystanbek.github.io/
+# This is my portfolio
