@@ -10,7 +10,7 @@ nav {
 }
 nav .logo {
     color: white;
-    font-size: 32px;
+    font-size: 24px;
     padding: 0 100px;
     line-height: 80px;
     font-weight: bold;
@@ -24,7 +24,7 @@ nav .logo:hover {
 
 nav ul {
     float: right;
-    margin-right: 80px;
+    margin-right: 40px;
 }
  nav ul li {
      display: inline-block;
@@ -45,5 +45,5 @@ nav ul li a:hover {
     background-color: white;
     font-weight: bold;
     letter-spacing: 1px;
-    border-radius: 8px;
+    border-radius: 5px;
 }
