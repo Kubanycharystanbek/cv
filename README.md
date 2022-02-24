@@ -1,1 +1,1 @@
-# This is my portfolio
+# https://kubanycharystanbek.github.io/
