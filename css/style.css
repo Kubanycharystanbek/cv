@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 nav {
-    background: #0082e6;
+    background: #4ba8f0;
     height: 80px;
     width: 100%;
 }
@@ -39,10 +39,11 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #0082e6;
+    color: #4ba8f0;
     transition: .3s;
     padding: 8px 17px;
     background-color: white;
     font-weight: bold;
     letter-spacing: 1px;
+    border-radius: 8px;
 }
