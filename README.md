@@ -1,1 +1,2 @@
-# Deployed Link: http://kubanycharystanbek.github.io/
+# Deployed Link
+https://kubanycharystanbek.github.io/
